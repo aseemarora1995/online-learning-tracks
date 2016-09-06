@@ -2,7 +2,7 @@
 
 ## Study Plan
 
-Curriculum follows udacity fullstack nanodegree, adjusted for my education/background, and extended to take advantage of full range of free university courses/lectures and other online instructional resources that overlap with udacity's nanaodegree. I will meet all course requirements and follow principles of project-based learning shared by oss by focusing on consolidating knowledge and internalizing core concepts through active completion of real projects. 
+Curriculum follows udacity fullstack nanodegree, adjusted and extended to take advantage of full range of free university courses/lectures and other online instructional resources that overlap with udacity's nanaodegree. I will satisfy all course requirements and follow principles of project-based learning shared by oss by focusing on consolidating knowledge and internalizing core concepts through active completion of real projects. 
 
 
 ## Core Curriculum
@@ -11,7 +11,7 @@ No. | Course | Institution | Effort | Status
 ---|---|---|---|---
 001 | ~~[Course: Programming Foundations with Python](https://www.udacity.com/courses/programming-foundations-with-python--ud036)~~ | udacity || **Completed 2016.08.30**
 CS61A | [Structure and Interpretation of Programs (Python)](http://cs61a.org/) | UC Berkeley | 16 weeks | **In Progress...**
-UD513 | [Technical Interview: Algorithms and Data Structures in Python](https://www.udacity.com/course/technical-interview--ud513) | Udacity | 16 weeks | **In Progress...***
+UD513 | [Technical Interview: Algorithms and Data Structures in Python](https://www.udacity.com/course/technical-interview--ud513) | Udacity | 16 weeks | **In Progress...**
 001 | [Course: Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893) | udacity || 
 001 | [Course: Intro to HTML and CSS (Udacity)](https://www.udacity.com/courses/intro-to-html-and-css--ud304) | udacity || 
 001 | [Course: Responsive Images (Udacity)](https://www.udacity.com/courses/responsive-images--ud882) | udacity || 
@@ -21,7 +21,7 @@ UD513 | [Technical Interview: Algorithms and Data Structures in Python](https://
 001 | [Course: Fullstack Foundations (Udacity)](https://www.udacity.com/courses/full-stack-foundations--ud088) | udacity || 
 001 | [Course: Intro to AJAX (Udacity)](https://www.udacity.com/courses/intro-to-ajax--ud110) | udacity || 
 001 | [Course: Using Javascript to Build Web Applications](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5) | Johns Hopkins / Coursera || **In Progress...**
-ud989 | [Course: Javascript Design Patterns (Udacity)](https://www.udacity.com/courses/javascript-design-patterns--ud989) | udacity || **In Progress...**
+ud989 | [Course: Javascript Design Patterns (Udacity)](https://www.udacity.com/courses/javascript-design-patterns--ud989) | udacity || 
 001 | [Course: Developing Scalable Apps in Python (udacity)](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858) | udacity || 
 001 | [Course: Configuring Linux Web Servers (udacity)](https://www.udacity.com/courses/configuring-linux-web-servers--ud299) | udacity || 
 001 | [Course: Linux Command Line Basics (udacity)](https://www.udacity.com/courses/linux-command-line-basics--ud595) | udacity || 

@@ -47,6 +47,8 @@ No. | Project | Tech
 001 | [Project: Design a Game]() | udacity
 001 | [Project: Linux Server Configuration]() | udacity
 
+## Notes
+
 ## Technologies
 
 *sublists in order or preference/expertise
@@ -88,10 +90,6 @@ Devops
 Web views
 
 ## Readings
-
-
-
-## Notes
 
 tbd
 

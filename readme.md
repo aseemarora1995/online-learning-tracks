@@ -1,21 +1,23 @@
 # Computer Science and Engineering Learning Tracks, Coursework, Curricula and other resources
 
-## Core Curriculum
+## Course Selection
 
 In order to take advantage of range of online educational resources (moocs, tutorials, etc.), I used the following procedure for course selection: For each topical area, research available online courses and resources, including free MOOCs available through open learning platforms like coursera and edX),evaluate courses and choose one or more based on an estimation of the quality of instruction and course content, as well as time commitment. Then commit to that material. Once committed, see the course through unless the course is prooving to be a waste of time, in which case simply abondon it. As areas of study are completed move on to others and repeat this process, adjusting it along the way, never planning too far ahead. This approach benefits from the full range of free and sometimes exceptional university-level courses while providing a flexible framework, and just enough structure to contain specialized self-education tracks. 
 
-## Statement of Strategy and Intent
+## Learning Strategy
 
 Satisfy course requirements, complete selected readings, and consolidate knowledge through active note-taking and creative construction of mental models. Attempt to internalize and reinforce core concepts through the process and completion of real projects, employ strategies for knowledge aquisition that follow principles of creative experimentation and problem-based learning, such as those that form much of the basis of constructivism (incremental learning theory developed by Seymour Papert and built on Jean Piaget's epistemological theory of of the same name). Attempt to apply modern learning techniques, derived from neuroscience and cognitive psychology, and popularized by Barbara Oakley, in [A Mind for Numbers](http://www.amazon.in/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=sr_1_1?ie=UTF8&qid=1450528775&sr=8-1&keywords=a+mind+for+numbers), and Kathy Sierra's O'Reilly talk [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM), which specifically addresses the cognitive mandate developers face, ie having the ability to quickly come up to speed and stay there, over and over again.
 
-##### Quick Calculus and Algebra Refresher
+## Curriculum
+
+#### Quick Calculus and Algebra Refresher
 
 http://mathinsight.org/thread/calculus_refresher
 http://mathinsight.org/thread/multivar
 http://mathinsight.org/thread/vector_algebra
 http://www.math.umn.edu/~garrett/calculus/first_year/notes.pdf
 
-##### Discrete Math Fundamentals / Refresh
+#### Discrete Math Fundamentals / Refresh
 
 No. | Course | Institution | Effort | Status
 ---|---|---|---|---
@@ -25,7 +27,7 @@ key texts:
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf
 https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf
 
-##### Probability
+#### Probability
 
 No. | Course | Institution | Effort | Status
 ---|---|---|---|---
@@ -34,11 +36,12 @@ xxx | [Computational Probability and Inference](https://www.edx.org/course/compu
 xxx | [Discrete Stochastic Processes (graduate)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/) | MIT / OCW ||
 
 related open courses / courseware:
-xxx | http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
-xxx | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ - full courseware, including video lectures
-xxx | http://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/
 
-##### Combinatorics: Enumeration & Graph Theory
+xxx | [introduction-to-probability-and-statistics](http://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/) |||
+xxx | http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/ - full courseware, including video lectures |||
+xxx | http://ocw.mit.edu/courses/mathematics/18-440-probability-and-random-variables-spring-2014/ |||
+
+#### Combinatorics: Enumeration & Graph Theory
 
 related open courses / courseware:
 xxx | http://ocw.mit.edu/courses/mathematics/18-314-combinatorial-analysis-fall-2014/
@@ -52,7 +55,7 @@ Stanley, Richard P. Enumerative Combinatorics. Vol. 1. Cambridge, UK: Cambridge 
 Enumerative Combinatorics. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
 [Richard Stanley. Topics in Algebraic Combinatorics](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)
 
-##### Automata Theory and Complexity
+#### Automata Theory and Complexity
 
 xxx | [Automata, Computability, and Complexity](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)
 xxx | [Theory of Computation](http://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006/)
@@ -60,7 +63,7 @@ xxx | [Theory of Computation](http://ocw.mit.edu/courses/mathematics/18-404j-the
 Key texts:
 Sipser, Michael. Introduction to the Theory of Computation. 2nd ed. Boston, MA: Thomson Course Technology, 2006
 
-##### Programming Fundamentals
+#### Programming Fundamentals
 
 ---
 
@@ -69,13 +72,13 @@ No. | Course | Institution | Effort | Status
 001 | ~~[Course: Programming Foundations with Python](https://www.udacity.com/courses/programming-foundations-with-python--ud036)~~ | udacity || **Completed 2016.08.30**
 CS61A | [Structure and Interpretation of Programs (Python)](http://cs61a.org/) | UC Berkeley | 16 weeks | **In Progress...**
 
-##### Algorithms & Data Structures
+#### Algorithms & Data Structures
 
 UD513 | [Technical Interview: Algorithms and Data Structures in Python](https://www.udacity.com/course/technical-interview--ud513) | Udacity | 16 weeks | **In Progress...**
 
 6.849 | [Geometric Folding Algorithms: Linkages, Origami, Polyhedra](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/) | MIT / OCW ||
 
-##### Software Systems & Architecture - Design Patterns & Paradigms
+#### Software Systems & Architecture - Design Patterns & Paradigms
 
 [Georgia Tech/Udacity UD821: Software Architecture Design](https://www.udacity.com/course/software-architecture-design--ud821)(start here)
 [UBCx How to Code: Systemic Program Design - 3 Part Series](https://www.edx.org/xseries/how-code-systematic-program-design)
@@ -83,17 +86,17 @@ UD513 | [Technical Interview: Algorithms and Data Structures in Python](https://
 texts and resources:
 [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - great resource. online book and catalog of software examples with descriptions!
 
-##### Computer Architecture
+#### Computer Architecture
 
 [Princeton/Coursera Computer Architecture](https://www.coursera.org/learn/comparch)
 
-##### Software Engineeing Practices & Workflows
+#### Software Engineeing Practices & Workflows
 
 [ETH Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
 ---
 
-##### Frontend Track - HTML, CSS, JS, Ajax
+#### Frontend Track - HTML, CSS, JS, Ajax
 
 001 | [Course: Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893) | udacity || 
 n/a | [Responsive Web Design](https://www.coursera.org/learn/responsive-web-design) | University of London / coursera || 
@@ -101,15 +104,15 @@ n/a | [Responsive Web Design](https://www.coursera.org/learn/responsive-web-desi
 001 | [Course: Responsive Images (Udacity)](https://www.udacity.com/courses/responsive-images--ud882) | udacity || 
 001 | [Course: Intro to AJAX (Udacity)](https://www.udacity.com/courses/intro-to-ajax--ud110) | udacity || 
 
-##### MV* JS Frameworks - ReactJS, Redux
+#### MV* JS Frameworks - ReactJS, Redux
 
-##### Tooling and Automation - Gulp, Sass, Bootstrap, Webpack, Babeljs, jslint, jekyll
+#### Tooling and Automation - Gulp, Sass, Bootstrap, Webpack, Babeljs, jslint, jekyll
 
-##### Unit Testing / Test-driven Development (TDD)
+#### Unit Testing / Test-driven Development (TDD)
 
 ---
 
-##### Backend Track
+#### Backend Track
 
 001 | [Course: Intro to Backend (Udacity)](https://www.udacity.com/courses/intro-to-backend--ud171) | udacity || 
 001 | [Course: Intro to Relational Databases (Udacity)](https://www.udacity.com/courses/intro-to-relational-databases--ud197) | udacity || 
